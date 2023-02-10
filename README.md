@@ -1,0 +1,1 @@
+# sequalize_associations
